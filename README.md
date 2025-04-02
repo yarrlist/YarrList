@@ -1,4 +1,3 @@
-
 Welcome to the YarrList wiki!
 # [🍿Movies and TV Shows](https://yarrlist.com/movies-and-tv-shows)
 Watch films and series online for free
