@@ -1,42 +1,42 @@
-# Backup domains:
+# New Domain:
 
-https://yarrlist.xyz/
+https://yarrlist.net/
 
-https://yarrlist.icu/
+
 
 Welcome to the YarrList wiki!
-# [🍿Movies and TV Shows](https://yarrlist.com/movies-and-tv-shows)
+# [🍿Movies and TV Shows](https://yarrlist.net/movies-and-tv-shows)
 Watch films and series online for free
 
-# [🐉Anime](https://yarrlist.com/anime-list)
+# [🐉Anime](https://yarrlist.net/anime-list)
 Stream or download anime episodes
 
-# [⚾Live Sports](https://yarrlist.com/sports-live-streaming)
+# [⚾Live Sports](https://yarrlist.net/sports-live-streaming)
 Watch sports events live
 
-# [📺Live TV](https://yarrlist.com/live-tv-list)
+# [📺Live TV](https://yarrlist.net/live-tv-list)
 Watch TV channels live from around the world
 
-# [📙Manga](https://yarrlist.com/manga-list)
+# [📙Manga](https://yarrlist.net/manga-list)
 Stay up to date with the latest manga releases
 
-# [⬇️Torrents](https://yarrlist.com/torrent-sites-list)
+# [⬇️Torrents](https://yarrlist.net/torrent-sites-list)
 Download movies, games, and more via peer-to-peer sharing
 
-# [🦸Comics](https://yarrlist.com/comics-list)
+# [🦸Comics](https://yarrlist.net/comics-list)
 Enjoy digital comics from top publishers
 
-# [🎮Games](https://yarrlist.com/games-download-sites)
+# [🎮Games](https://yarrlist.net/games-download-sites)
 Play or download free PC and console games
 
-# [🎶Music](https://yarrlist.com/music-download-sites-list)
+# [🎶Music](https://yarrlist.net/music-download-sites-list)
 Stream or download songs and albums for free
 
-# [📚eBooks](https://yarrlist.com/ebooks-list)
+# [📚eBooks](https://yarrlist.net/ebooks-list)
 Read or download books in digital formats
 
-# [👁️‍🗨️Adblockers](https://yarrlist.com/adblockers-list)
+# [👁️‍🗨️Adblockers](https://yarrlist.net/adblockers-list)
 Block ads and pop-ups for a smoother browsing experience
 
-# [🔏VPN](https://yarrlist.com/list-with-best-vpn-service-2025)
+# [🔏VPN](https://yarrlist.net/list-with-best-vpn-service-2025)
 Protect your privacy and access restricted content online.
