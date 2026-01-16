@@ -2,6 +2,12 @@
 
 https://yarrlist.net/
 
+# Backups:
+
+https://yarrlist.xyz/
+
+https://yarrlist.icu
+
 
 
 Welcome to the YarrList wiki!
