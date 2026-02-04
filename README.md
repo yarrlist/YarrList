@@ -22,6 +22,8 @@ Stream or download anime episodes
 # [⚾Live Sports](https://yarrlist.net/sports-live-streaming)
 Watch sports events live
 
+- [DamiTV.pro](https://damitv.pro) — Free live sports streaming (Football, Cricket, UFC, F1, NBA & more). Multiple stream sources, live scores, no signup required.
+
 # [📺Live TV](https://yarrlist.net/live-tv-list)
 Watch TV channels live from around the world
 
