@@ -4,25 +4,25 @@ https://yarrlist.net/
 
 # Backups:
 
-https://yarrlist.xyz/
+https://yarrlist.io/
 
-https://yarrlist.icu/
+https://yarrlist.us/
 
 https://ahoylist.net/
 
 
 
 Welcome to the YarrList wiki!
-# [🍿Movies and TV Shows](https://yarrlist.net/movies-and-tv-shows)
+# [🍿Movies and TV Shows](https://yarrlist.io/movies-and-tv-shows)
 Watch films and series online for free
 
-# [🐉Anime](https://yarrlist.net/anime-list)
+# [🐉Anime](https://yarrlist.io/anime-list)
 Stream or download anime episodes
 
-# [⚾Live Sports](https://yarrlist.net/sports-live-streaming)
+# [⚾Live Sports](https://yarrlist.io/sports-live-streaming)
 Watch sports events live
 
-# [📺Live TV](https://yarrlist.net/live-tv-list)
+# [📺Live TV](https://yarrlist.io/live-tv-list)
 Watch TV channels live from around the world
 
 # [📙Manga](https://yarrlist.net/manga-list)
@@ -34,7 +34,7 @@ Download movies, games, and more via peer-to-peer sharing
 # [🦸Comics](https://yarrlist.net/comics-list)
 Enjoy digital comics from top publishers
 
-# [🎮Games](https://yarrlist.net/games-download-sites)
+# [🎮Games](https://yarrlist.us/games-download-sites)
 Play or download free PC and console games
 
 # [🎶Music](https://yarrlist.net/music-download-sites-list)
