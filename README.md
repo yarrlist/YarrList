@@ -43,6 +43,9 @@ Stream or download songs and albums for free
 # [📚eBooks](https://yarrlist.net/ebooks-list)
 Read or download books in digital formats
 
+# [🎭Asian Drama](https://yarrlist.net/asian-drama-list)
+Watch Dramas from Asia
+
 # [👁️‍🗨️Adblockers](https://yarrlist.net/adblockers-list)
 Block ads and pop-ups for a smoother browsing experience
 
