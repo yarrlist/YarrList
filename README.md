@@ -10,6 +10,8 @@ https://yarrlist.icu/
 
 https://ahoylist.net/
 
+https://yarlist.org/
+
 
 
 Welcome to the YarrList wiki!
