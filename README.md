@@ -55,3 +55,6 @@ Block ads and pop-ups for a smoother browsing experience
 
 # [🔏VPN](https://yarrlist.net/list-with-best-vpn-service-2025)
 Protect your privacy and access restricted content online.
+
+# [Asian Drama](https://dramaacool.sbs)
+Please add this domain for dramacool, its fast and works better and updates very quickly.
