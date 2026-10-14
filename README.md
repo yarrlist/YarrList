@@ -20,6 +20,8 @@ Welcome to the YarrList wiki!
 # [🍿Movies and TV Shows](https://yarrlist.net/movies-and-tv-shows)
 Watch films and series online for free
 
+- [FlyStream](https://flystream.net/) — Movies, TV shows and anime in one place. Multiple servers per title, up to 4K, subtitles, watch parties, and apps for Windows and Android / Fire TV.
+
 # [🐉Anime](https://yarrlist.net/anime-list)
 Stream or download anime episodes
 
