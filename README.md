@@ -32,6 +32,11 @@ Watch TV channels live from around the world
 # [📙Manga](https://yarrlist.net/manga-list)
 Stay up to date with the latest manga releases
 
+
+- [ReaderX](https://hentairead.ws/) – English-language adult manga and doujinshi reading platform with advanced search filters, organized categories, and a mobile-friendly reader.
+
+- 
+
 # [⬇️Torrents](https://yarrlist.net/torrent-sites-list)
 Download movies, games, and more via peer-to-peer sharing
 
