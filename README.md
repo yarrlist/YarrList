@@ -20,6 +20,8 @@ Welcome to the YarrList wiki!
 # [🍿Movies and TV Shows](https://yarrlist.net/movies-and-tv-shows)
 Watch films and series online for free
 
+- [RIVO](https://rivo.st/) — Movies and TV shows with multiple servers per title, subtitles in many languages, watch together with friends, continue watching, and apps for Android, Android TV and Windows.
+
 # [🐉Anime](https://yarrlist.net/anime-list)
 Stream or download anime episodes
 
