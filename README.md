@@ -19,7 +19,7 @@ https://yarlist.org/
 Welcome to the YarrList wiki!
 # [🍿Movies and TV Shows](https://yarrlist.net/movies-and-tv-shows)
 Watch films and series online for free
-- [Movie Box](https://movie-box.co/?utm_source=yarrlist.net) — Free movies and TV shows streaming with multiple servers, subtitles, and no sign-up required.
+- [Movie Box](https://movie-box.co/?utm_source=yarrlist.net) — Free, browser-based movie and TV discovery and viewing, with no app installation required.
 
 # [🐉Anime](https://yarrlist.net/anime-list)
 Stream or download anime episodes
